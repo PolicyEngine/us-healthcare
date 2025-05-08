@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from us-healthcare!")
+    print("Hello from us-healthcare.")
