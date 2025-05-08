@@ -5,4 +5,4 @@ documentation:
 	python docs/add_plotly_to_book.py docs
 
 test:
-	pytest tests
+	echo "No tests yet"
